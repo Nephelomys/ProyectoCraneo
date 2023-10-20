@@ -1,24 +1,26 @@
-Patrones de expresion de genes realacionados a la morfologia craneofacial en roedores sudamericanos (Rodentia:Cricetidae)
+Patrones de expresion de genes realacionados a la morfologia craneofacial en roedores sudamericanos Cricetidae
 
-Genes:
- Pax3
- Pax7
- Bmp2
- Bmp3
- Sox9
- Sox10
+Genes
 
-Datos:
+Pax3
+Pax7
+Bmp2
+Bmp3
+Sox9
+Sox10
 
- Genomas de roedores cricetidos en formato FASTA
+Datos
 
-Analisis:
+Genomas de roedores cricetidos en formato FASTA
 
- Identificar y extraer las secuencias de los genes mencionados
+Analisis
 
- Analizar las secuencias de los genes en busca de SNPs que pudieran influenciar en la expresion
+Identificar y extraer las secuencias de los genes mencionados
 
- Generar una matriz de SNPs y realizar un arbol filogenetico.
+Analizar las secuencias de los genes en busca de SNPs que pudieran influenciar en la expresion
+
+Generar una matriz de SNPs y realizar un arbol filogenetico
  
- Reazlizar unarbol filogenetico para cada gen y para los genes concatenados
-
+Reazlizar un arbol filogenetico para cada gen y para los genes concatenados
+ 
+Usar Monodelphis domestica como outgroup
