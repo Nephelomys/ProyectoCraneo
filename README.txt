@@ -24,3 +24,5 @@ Generar una matriz de SNPs y realizar un arbol filogenetico
 Reazlizar un arbol filogenetico para cada gen y para los genes concatenados
  
 Usar Monodelphis domestica como outgroup
+
+Incluir a mus musculus
