@@ -1,0 +1,12 @@
+# Descargar genomas
+
+# Abrir base datos Genbank
+
+# Buscar genomas de roedores sudamericanos CRICETIDAE
+
+# Descargar en formato FASTA y guardar en ProyectoCraneo/Datos
+
+# Listar cuantos genomas se bajaron
+
+# Extraer e imprimir los metados en un documento 
+
